@@ -37,6 +37,6 @@ export default {
   // preserveIndex: false, // drop /index from URLs
 
   dynamicPaths: [
-    "./exports.js"
+    "/exports.js"
   ] 
 };

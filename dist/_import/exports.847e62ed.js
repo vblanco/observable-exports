@@ -3,7 +3,7 @@ import * as d3 from "../_npm/d3@7.9.0/e780feca.js";
 import {FileAttachment, Inputs, html} from "../_observablehq/stdlib.73a8ec5a.js";
 
 // 1. Re-define the data loader
-const insercion = FileAttachment({"name":"../data/insercion-laboral.json","mimeType":"application/json","path":"../_file/data/insercion-laboral.c79d52de.json","lastModified":1764426000474,"size":12685}, import.meta.url).json();
+const insercion = FileAttachment({"name":"../data/insercion-laboral.json","mimeType":"application/json","path":"../_file/data/insercion-laboral.c79d52de.json","lastModified":1764594842812,"size":12685}, import.meta.url).json();
 
 // 2. Re-define the sparkbar function
 function sparkbar(max) {
